@@ -434,3 +434,423 @@ Received Import Request.
 Start importing Assets/FBX/Stadium/textures/Asphalt_New.jpg using Guid(5373085d6ff207b4099c72d8c5b01328) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59fcd467dbfe00558d67e6a6ebb6f214') in 0.023653 seconds
   Import took 0.027155 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 13254.719147 seconds.
+  path: Assets/FBX/Stadium/textures/TexturesCom_Grass0202_1_seamless_S.jpg
+  artifactKey: Guid(effe205a87e931e4ba14236ee2a53415) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/Stadium/textures/TexturesCom_Grass0202_1_seamless_S.jpg using Guid(effe205a87e931e4ba14236ee2a53415) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc7bda9c1555ed3cc27ff539b6567875') in 0.048527 seconds
+  Import took 0.053336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.141573 seconds.
+  path: Assets/FBX/Stadium/textures/TexturesCom_Grass0052_1_seamless_S.jpg
+  artifactKey: Guid(35692f40c60732e48b9d9c0b137620ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/Stadium/textures/TexturesCom_Grass0052_1_seamless_S.jpg using Guid(35692f40c60732e48b9d9c0b137620ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f46cba1f71dbff8a1d2bb3b018d739b4') in 0.027665 seconds
+  Import took 0.031187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1125.421476 seconds.
+  path: Assets/FBX/pitch.fbx
+  artifactKey: Guid(8ff09adf532ca504ca784a19e5b200f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/pitch.fbx using Guid(8ff09adf532ca504ca784a19e5b200f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e60fd0dde0c6601873605447c68274ae') in 0.056297 seconds
+  Import took 0.060697 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 73.504105 seconds.
+  path: Assets/FBX/pitch.fbx
+  artifactKey: Guid(8ff09adf532ca504ca784a19e5b200f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/pitch.fbx using Guid(8ff09adf532ca504ca784a19e5b200f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b0ac79d9307ee6bde60476ae4ab9e81') in 0.151572 seconds
+  Import took 0.157295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.463187 seconds.
+  path: Assets/FBX/pitch.fbx
+  artifactKey: Guid(8ff09adf532ca504ca784a19e5b200f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/pitch.fbx using Guid(8ff09adf532ca504ca784a19e5b200f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ee10b05c5a427a319a78c4821600576') in 0.118334 seconds
+  Import took 0.123695 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.756195 seconds.
+  path: Assets/FBX/Materials
+  artifactKey: Guid(04c91d1903f53e542a6e2492f16c4554) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/Materials using Guid(04c91d1903f53e542a6e2492f16c4554) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb3921f4199a7f5499ba5e56bc75edd5') in 0.009870 seconds
+  Import took 0.013611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.052521 seconds.
+  path: Assets/FBX/Materials/Material.001.mat
+  artifactKey: Guid(7b69e04bf89dcae46bf14208d3ceeb42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/Materials/Material.001.mat using Guid(7b69e04bf89dcae46bf14208d3ceeb42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5affc729e2060d400918b3efbcccc169') in 0.015689 seconds
+  Import took 0.018395 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/FBX/Materials/No Name.mat
+  artifactKey: Guid(8182b1559adf943409b274e12321ba0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/Materials/No Name.mat using Guid(8182b1559adf943409b274e12321ba0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '836b65b68e8e56d00fe4600cae5f6a0a') in 0.010782 seconds
+  Import took 0.014602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/FBX/Materials/Material.003.mat
+  artifactKey: Guid(9db88271c27af8f48a6b557569c1e1e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/Materials/Material.003.mat using Guid(9db88271c27af8f48a6b557569c1e1e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd920883c4fcca0768b56e1c73720b972') in 0.019620 seconds
+  Import took 0.022769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.487894 seconds.
+  path: Assets/FBX/Stadium/Materials/post.mat
+  artifactKey: Guid(afeb13decbb036a4cb3d67713eaede16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/Stadium/Materials/post.mat using Guid(afeb13decbb036a4cb3d67713eaede16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc43d4285dc063a71fa0ca51ea8429b7') in 0.025045 seconds
+  Import took 0.027934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/FBX/Stadium/Materials/Roof Color.mat
+  artifactKey: Guid(801a30727fa806b4ebe54bb87756b29e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/Stadium/Materials/Roof Color.mat using Guid(801a30727fa806b4ebe54bb87756b29e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4eaafa2ee6e2766da2b35afae14eb359') in 0.029401 seconds
+  Import took 0.031870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2243.795229 seconds.
+  path: Assets/FBX/Pitch
+  artifactKey: Guid(e5b9101e58f8e904e9449ef4a99ba592) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/Pitch using Guid(e5b9101e58f8e904e9449ef4a99ba592) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4ca8d5e13e9cb0ef2df0b3f09117491') in 0.012027 seconds
+  Import took 0.034185 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.388468 seconds.
+  path: Assets/FBX/Pitch/pitch.fbx
+  artifactKey: Guid(dc32562ec6d1577428fb1ca5a1882a59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/Pitch/pitch.fbx using Guid(dc32562ec6d1577428fb1ca5a1882a59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd88e75cb145d59479faaf3d984845725') in 0.464993 seconds
+  Import took 0.470864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.730481 seconds.
+  path: Assets/FBX/Pitch/pitch.fbx
+  artifactKey: Guid(dc32562ec6d1577428fb1ca5a1882a59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/Pitch/pitch.fbx using Guid(dc32562ec6d1577428fb1ca5a1882a59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a968adf1df5fa2db6f2c842147b21eee') in 0.245891 seconds
+  Import took 0.250090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.613874 seconds.
+  path: Assets/FBX/Pitch/Materials
+  artifactKey: Guid(fbbf0f8e2a7be1f439a92c0236616980) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/Pitch/Materials using Guid(fbbf0f8e2a7be1f439a92c0236616980) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6d4397afdc3483d7d534b20c3f65e35') in 0.002728 seconds
+  Import took 0.006218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.075748 seconds.
+  path: Assets/FBX/Pitch/Materials/stump-logo.mat
+  artifactKey: Guid(26401eb42ec17ef4abcc09c9e15a9ea0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/Pitch/Materials/stump-logo.mat using Guid(26401eb42ec17ef4abcc09c9e15a9ea0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66e252560592e9dea3c1a527f2664cdf') in 0.019036 seconds
+  Import took 0.022879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000399 seconds.
+  path: Assets/FBX/Pitch/Materials/stumps.mat
+  artifactKey: Guid(737d8f18be5478f42947b327bf61a630) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/Pitch/Materials/stumps.mat using Guid(737d8f18be5478f42947b327bf61a630) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c81e196c9c7469f7b769ee58c285643') in 0.024341 seconds
+  Import took 0.027921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/FBX/Pitch/Materials/TexturesCom_Grass0052_1_seamless_S.mat
+  artifactKey: Guid(4d6a582f29c440845938d7b1827ccad4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/Pitch/Materials/TexturesCom_Grass0052_1_seamless_S.mat using Guid(4d6a582f29c440845938d7b1827ccad4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '609392905b24b1a43e9e5930e23b039e') in 0.024178 seconds
+  Import took 0.028213 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/FBX/Pitch/Materials/TexturesCom_Ground_ClayCracked_1x1_512_albedo.mat
+  artifactKey: Guid(173a912d3d7e1f144b157c8a224085cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/Pitch/Materials/TexturesCom_Ground_ClayCracked_1x1_512_albedo.mat using Guid(173a912d3d7e1f144b157c8a224085cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30bf730b318e50526cc6f44e7b6321b0') in 0.022162 seconds
+  Import took 0.025472 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 300.984174 seconds.
+  path: Assets/FBX/Pitch/Materials/TexturesCom_Ground_ClayCracked_1x1_512_albedo.tif
+  artifactKey: Guid(d03acf6eb008a0e4ba96363d96d3dbc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/Pitch/Materials/TexturesCom_Ground_ClayCracked_1x1_512_albedo.tif using Guid(d03acf6eb008a0e4ba96363d96d3dbc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a31c524972ace63a7568f77db8edf867') in 0.035574 seconds
+  Import took 0.039701 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/FBX/Pitch/Materials/TexturesCom_Ground_ClayCracked_1x1_512_normal.tif
+  artifactKey: Guid(eb4b79e913b906a4db13bc98f0135a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/Pitch/Materials/TexturesCom_Ground_ClayCracked_1x1_512_normal.tif using Guid(eb4b79e913b906a4db13bc98f0135a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d7340e62ffc69afe9aa0fc6e329f980') in 0.022724 seconds
+  Import took 0.026831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 277.896281 seconds.
+  path: Assets/FBX/Pitch/Materials/TexturesCom_Grass0052_1_seamless_S.mat
+  artifactKey: Guid(4d6a582f29c440845938d7b1827ccad4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/Pitch/Materials/TexturesCom_Grass0052_1_seamless_S.mat using Guid(4d6a582f29c440845938d7b1827ccad4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02d58f13de5ffeaec38d051334319767') in 0.024322 seconds
+  Import took 0.027328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/FBX/Pitch/Materials/TexturesCom_Ground_ClayCracked_1x1_512_albedo.mat
+  artifactKey: Guid(173a912d3d7e1f144b157c8a224085cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/Pitch/Materials/TexturesCom_Ground_ClayCracked_1x1_512_albedo.mat using Guid(173a912d3d7e1f144b157c8a224085cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92d9e2706d5e615acb6f4272bb9d8607') in 0.017907 seconds
+  Import took 0.021637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.582477 seconds.
+  path: Assets/FBX/Pitch/Materials/TexturesCom_Ground_ClayCracked_1x1_512_normal.tif
+  artifactKey: Guid(eb4b79e913b906a4db13bc98f0135a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/Pitch/Materials/TexturesCom_Ground_ClayCracked_1x1_512_normal.tif using Guid(eb4b79e913b906a4db13bc98f0135a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1693542df15b9e97a5af291f235bf790') in 0.055842 seconds
+  Import took 0.059522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 434.841438 seconds.
+  path: Assets/FBX/Pitch/Materials/TexturesCom_Ground_ClayCracked_1x1_512_albedo 1.tif
+  artifactKey: Guid(b9ae870d99a7a824a8e6807dc6c37eae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/Pitch/Materials/TexturesCom_Ground_ClayCracked_1x1_512_albedo 1.tif using Guid(b9ae870d99a7a824a8e6807dc6c37eae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b02538335f9ffdae9e8ae5050e05dce') in 0.030141 seconds
+  Import took 0.036700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000361 seconds.
+  path: Assets/FBX/Pitch/Materials/TexturesCom_Ground_ClayCracked_1x1_512_normal 1.tif
+  artifactKey: Guid(76b658558b690cb4f8c7056c7bafffcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/Pitch/Materials/TexturesCom_Ground_ClayCracked_1x1_512_normal 1.tif using Guid(76b658558b690cb4f8c7056c7bafffcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44b647d7e20eae96da7397a033f76736') in 0.021740 seconds
+  Import took 0.024676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 67.840260 seconds.
+  path: Assets/FBX/Pitch/Materials/TexturesCom_Ground_MudCracked2_2x2_1K_albedo.tif
+  artifactKey: Guid(22fcdc1e54251484fb850e726dd3951a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/Pitch/Materials/TexturesCom_Ground_MudCracked2_2x2_1K_albedo.tif using Guid(22fcdc1e54251484fb850e726dd3951a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f87dd58d05ee19b3d05bdfbffb759ff3') in 0.027335 seconds
+  Import took 0.031978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/FBX/Pitch/Materials/TexturesCom_Ground_MudCracked2_2x2_1K_normal.tif
+  artifactKey: Guid(9e1a615d13ec20b4d925c8c7a5696dfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/Pitch/Materials/TexturesCom_Ground_MudCracked2_2x2_1K_normal.tif using Guid(9e1a615d13ec20b4d925c8c7a5696dfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b014b176e1f390dbf5a3c790695c179e') in 0.074321 seconds
+  Import took 0.079340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/FBX/Pitch/Materials/TexturesCom_Ground_MudCracked2_2x2_1K_height.tif
+  artifactKey: Guid(c678dd488db370c4c9735917a1814b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/Pitch/Materials/TexturesCom_Ground_MudCracked2_2x2_1K_height.tif using Guid(c678dd488db370c4c9735917a1814b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de87f402b6e21789ca03243b79a07a8f') in 0.020583 seconds
+  Import took 0.023727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.211297 seconds.
+  path: Assets/FBX/Pitch/Materials/TexturesCom_Ground_MudCracked2_2x2_1K_normal.tif
+  artifactKey: Guid(9e1a615d13ec20b4d925c8c7a5696dfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/Pitch/Materials/TexturesCom_Ground_MudCracked2_2x2_1K_normal.tif using Guid(9e1a615d13ec20b4d925c8c7a5696dfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fe4fe92b1a75a073de0ac350e1de008') in 0.025947 seconds
+  Import took 0.031711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 697.366714 seconds.
+  path: Assets/FBX/Stump
+  artifactKey: Guid(99fdd4cfa0ff05241aa1a8d7ebf4bca3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/Stump using Guid(99fdd4cfa0ff05241aa1a8d7ebf4bca3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f1eb5915f1fbe9b4b6a81eee7180fca') in 0.009211 seconds
+  Import took 0.012267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.840774 seconds.
+  path: Assets/FBX/Stump/stump.fbx
+  artifactKey: Guid(144676c5b1beefa49aec4563dfbf8cab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/Stump/stump.fbx using Guid(144676c5b1beefa49aec4563dfbf8cab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '449ab3366bbec29b1993871da8ad1ff9') in 0.139014 seconds
+  Import took 0.141809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.964154 seconds.
+  path: Assets/FBX/Stump/stump.fbx
+  artifactKey: Guid(144676c5b1beefa49aec4563dfbf8cab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/Stump/stump.fbx using Guid(144676c5b1beefa49aec4563dfbf8cab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a880c49c40130b3d3e43c9da1efb9fc') in 0.045717 seconds
+  Import took 0.050137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002869 seconds.
+  path: Assets/FBX/Stump/stump.fbx
+  artifactKey: Guid(144676c5b1beefa49aec4563dfbf8cab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/Stump/stump.fbx using Guid(144676c5b1beefa49aec4563dfbf8cab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a880c49c40130b3d3e43c9da1efb9fc') in 0.039056 seconds
+  Import took 0.042925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.703432 seconds.
+  path: Assets/FBX/Stump/stump.fbx
+  artifactKey: Guid(144676c5b1beefa49aec4563dfbf8cab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/Stump/stump.fbx using Guid(144676c5b1beefa49aec4563dfbf8cab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '693bfa3af5b6b2435224410c05aed370') in 0.086828 seconds
+  Import took 0.089659 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005415 seconds.
+  path: Assets/FBX/Stump/stump.fbx
+  artifactKey: Guid(144676c5b1beefa49aec4563dfbf8cab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/Stump/stump.fbx using Guid(144676c5b1beefa49aec4563dfbf8cab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '693bfa3af5b6b2435224410c05aed370') in 0.021044 seconds
+  Import took 0.024177 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 469.133759 seconds.
+  path: Assets/FBX/11715_ball_v3_L1.obj
+  artifactKey: Guid(33a3a9c6209c1d5499cd8f846c657cd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/11715_ball_v3_L1.obj using Guid(33a3a9c6209c1d5499cd8f846c657cd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4ab5e5689e2f318daeca817b388e3d9') in 0.161242 seconds
+  Import took 0.165882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.607425 seconds.
+  path: Assets/FBX/11715_ball_v3_L1.obj
+  artifactKey: Guid(33a3a9c6209c1d5499cd8f846c657cd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/11715_ball_v3_L1.obj using Guid(33a3a9c6209c1d5499cd8f846c657cd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14bae42b34371dfce41edbfb20724501') in 0.053248 seconds
+  Import took 0.057033 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.686237 seconds.
+  path: Assets/FBX/Materials/ball_bodyMat.mat
+  artifactKey: Guid(078c71de377343a4e8bc5fba5aab331f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/Materials/ball_bodyMat.mat using Guid(078c71de377343a4e8bc5fba5aab331f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca54ac9f1ae5d8d5f090ef9be9da3ba6') in 0.026712 seconds
+  Import took 0.032691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/FBX/Materials/ball_threadMat.mat
+  artifactKey: Guid(8437bac3bab979c41888064fe3908b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/Materials/ball_threadMat.mat using Guid(8437bac3bab979c41888064fe3908b77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8683c7fb073940c794bd197b48a27511') in 0.021995 seconds
+  Import took 0.025983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.283752 seconds.
+  path: Assets/FBX/Ball
+  artifactKey: Guid(102da34d2abb3334b817768518c61cb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/Ball using Guid(102da34d2abb3334b817768518c61cb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10cce9ed7eb048d63342e175ac4b1c2e') in 0.011669 seconds
+  Import took 0.015550 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 176.614715 seconds.
+  path: Assets/FBX/Ball/Materials/ball_bodyMat.mat
+  artifactKey: Guid(078c71de377343a4e8bc5fba5aab331f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/Ball/Materials/ball_bodyMat.mat using Guid(078c71de377343a4e8bc5fba5aab331f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f581c60abcd0b8ee537226568e6eb41') in 0.043173 seconds
+  Import took 0.051368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 809.957193 seconds.
+  path: Assets/FBX/Stump/stump.fbx
+  artifactKey: Guid(144676c5b1beefa49aec4563dfbf8cab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/Stump/stump.fbx using Guid(144676c5b1beefa49aec4563dfbf8cab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11a2fbc1cae89c14f95da380f0a00f0a') in 0.142379 seconds
+  Import took 0.151530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.677754 seconds.
+  path: Assets/FBX/Stump/stump.fbx
+  artifactKey: Guid(144676c5b1beefa49aec4563dfbf8cab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/Stump/stump.fbx using Guid(144676c5b1beefa49aec4563dfbf8cab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa0e415a11d370e49589cf88d66bcb17') in 0.050164 seconds
+  Import took 0.054133 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001171 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.845 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.4 MB.
+System memory in use after: 61.5 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1609.
+Total: 1.902300 ms (FindLiveObjects: 0.171200 ms CreateObjectMapping: 0.043800 ms MarkObjects: 1.613000 ms  DeleteObjects: 0.072400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000679 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.926 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.5 MB.
+System memory in use after: 61.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1612.
+Total: 2.560400 ms (FindLiveObjects: 0.664400 ms CreateObjectMapping: 0.125000 ms MarkObjects: 1.702500 ms  DeleteObjects: 0.065800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 11535.928374 seconds.
+  path: Assets/FBX/Stump/Ball.physicMaterial
+  artifactKey: Guid(3b92723d94b905743b117b005d9e638d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/Stump/Ball.physicMaterial using Guid(3b92723d94b905743b117b005d9e638d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13be991adda719c590e9eecb2a0a4c67') in 0.017192 seconds
+  Import took 0.019964 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000609 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.932 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.5 MB.
+System memory in use after: 61.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1615.
+Total: 2.184400 ms (FindLiveObjects: 0.225800 ms CreateObjectMapping: 0.045500 ms MarkObjects: 1.797800 ms  DeleteObjects: 0.112700 ms)
+

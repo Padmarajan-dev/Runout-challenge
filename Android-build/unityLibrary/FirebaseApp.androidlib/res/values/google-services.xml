@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://runout-challenge-default-rtdb.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">527708802143</string>
+  <string name="google_storage_bucket" translatable="false">runout-challenge.appspot.com</string>
+  <string name="project_id" translatable="false">runout-challenge</string>
+  <string name="google_api_key" translatable="false">AIzaSyBEhv1CMENzL6Et4OVFD2x8_cU6S9Pgjdo</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBEhv1CMENzL6Et4OVFD2x8_cU6S9Pgjdo</string>
+  <string name="google_app_id" translatable="false">1:527708802143:android:87c83ae14c8512e4485fea</string>
+  <string name="default_web_client_id" translatable="false">527708802143-mtot32t7ef5c4el55iedp259c32qb8lm.apps.googleusercontent.com</string>
+</resources>

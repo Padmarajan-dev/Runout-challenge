@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: E./unity/Runout-challenge/Android-build/unityLibrary/libs/com.squareup.okio.okio-1.17.5.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/unityLibrary/libs/com.squareup.okio.okio-1.17.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

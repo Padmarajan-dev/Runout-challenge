@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: E./unity/Runout-challenge/Android-build/unityLibrary/libs/io.grpc.grpc-api-1.41.0.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/unityLibrary/libs/io.grpc.grpc-api-1.41.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
